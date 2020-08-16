@@ -1,0 +1,2 @@
+Change Room Name: Old Name=BMS_REV_A1 New Name=380-015-113L001
+Change Room Scope: Old Scope=InComponentClass('BMS_REV_A1') New Scope=InComponentClass('380-015-113L001')
