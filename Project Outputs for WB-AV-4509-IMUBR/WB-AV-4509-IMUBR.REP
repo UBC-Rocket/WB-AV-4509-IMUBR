@@ -1,0 +1,276 @@
+*************************************************************
+FileName = WB-AV-4509-IMUBR.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Assembly
+      File : WB-AV-4509-IMUBR.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : WB-AV-4509-IMUBR.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : WB-AV-4509-IMUBR.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : WB-AV-4509-IMUBR.GM13
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : WB-AV-4509-IMUBR.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : WB-AV-4509-IMUBR.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : WB-AV-4509-IMUBR.GM24
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : WB-AV-4509-IMUBR.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : WB-AV-4509-IMUBR.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : WB-AV-4509-IMUBR.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D10
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : WB-AV-4509-IMUBR.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : WB-AV-4509-IMUBR.GM23
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : WB-AV-4509-IMUBR.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : WB-AV-4509-IMUBR.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : WB-AV-4509-IMUBR.GM21
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : WB-AV-4509-IMUBR.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : WB-AV-4509-IMUBR.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : WB-AV-4509-IMUBR.GM20
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : WB-AV-4509-IMUBR.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : WB-AV-4509-IMUBR.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D22
+    D23
+    D24
+*************************************************************
+
